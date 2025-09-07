@@ -1,9 +1,7 @@
 .dart_tool/
 .packages
-build/
-!build/web/
-ios/
 android/
+ios/
 macos/
 windows/
 linux/
@@ -12,3 +10,4 @@ test/
 .metadata
 analysis_options.yaml
 pubspec.lock
+# Keep build/web for deployment
