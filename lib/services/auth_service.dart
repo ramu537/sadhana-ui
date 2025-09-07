@@ -79,7 +79,7 @@ class AuthService extends ChangeNotifier {
       'email',
       'profile',
     ],
-    // For web, you can also set the client ID here if needed
+    // Updated client ID for production deployment on Vercel
     clientId: '165916648872-o1ocb648u4lguef15nq2u9qj5t03j8ov.apps.googleusercontent.com',
   );
 

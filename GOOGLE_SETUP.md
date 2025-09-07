@@ -34,7 +34,7 @@ Follow these steps to configure Google Sign-In for your Sadhana app:
    - **Authorized JavaScript origins:**
      - `http://localhost:8080` (for development)
      - `http://localhost:3000` (alternative port)
-     - Add your production domain when ready
+     - `https://sadhana-ui.vercel.app` (production domain)
    - **Authorized redirect URIs:** (leave empty for now)
 
 5. Click **"Create"**
